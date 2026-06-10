@@ -2,7 +2,7 @@
 #include "SFML/Graphics.hpp"
 
 
-namespace ArkanoidGame
+namespace Roguelike
 {
 	class GameObject
 	{

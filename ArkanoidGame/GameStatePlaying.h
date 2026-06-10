@@ -10,7 +10,7 @@
 
 #include <unordered_map>
 
-namespace ArkanoidGame
+namespace Roguelike
 {
 	class Game;
 	class Block;

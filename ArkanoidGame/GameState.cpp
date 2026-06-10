@@ -10,7 +10,7 @@
 #include <assert.h>
 
 
-namespace ArkanoidGame
+namespace Roguelike
 {
 	GameState::GameState(GameStateType type, bool isExclusivelyVisible)
 		: type(type)

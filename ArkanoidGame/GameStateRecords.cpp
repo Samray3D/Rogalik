@@ -6,7 +6,7 @@
 #include <assert.h>
 #include <sstream>
 
-namespace ArkanoidGame
+namespace Roguelike
 {
 	void GameStateRecordsData::Init()
 	{
