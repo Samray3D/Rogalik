@@ -2,7 +2,7 @@
 #include <string>
 
 
-namespace ArkanoidGame
+namespace Roguelike
 {
 	class GameWorld {
 	private:

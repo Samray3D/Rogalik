@@ -5,7 +5,7 @@
 #include <assert.h>
 #include <sstream>
 
-namespace ArkanoidGame
+namespace Roguelike
 {
 	void GameStateGameOverData::Init()
 	{

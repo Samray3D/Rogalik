@@ -5,7 +5,7 @@
 #include <functional>
 
 
-namespace ArkanoidGame
+namespace Roguelike
 {
 	struct MenuItem
 	{
